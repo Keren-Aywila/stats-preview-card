@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://.com]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://evereverk.github.io/stats-preview-card/]
 
 ### Built with
 
