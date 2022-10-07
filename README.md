@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Keren-Aywila/stats-preview-card.git]
-- Live Site URL: [https://evereverk.github.io/stats-preview-card/]
+- Live Site URL: [https://keren-aywila.github.io/stats-preview-card/]
 
 ### Built with
 
